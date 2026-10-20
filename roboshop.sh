@@ -1,9 +1,9 @@
 #!/bin/bash
 
 SG_ID="sg-0a8c5f76a25f47cbe" # replace with your ID
-AMI_ID="ami-0220d79f3f480ecf5"
-ZONE_ID="Z05013202FKF0ZL12WAOP"
-DOMAIN_NAME="daws88s.online"
+AMI_ID="ami-0055977a6e828a4f4"
+ZONE_ID="Z07835251RXHRH0QK4H6U"
+DOMAIN_NAME="dsecops88.online"
 
 for instance in $@
 do
